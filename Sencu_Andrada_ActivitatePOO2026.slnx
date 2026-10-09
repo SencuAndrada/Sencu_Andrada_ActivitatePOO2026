@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sencu_Andrada_ActivitatePOO2026/Sencu_Andrada_ActivitatePOO2026.vcxproj" />
+</Solution>
