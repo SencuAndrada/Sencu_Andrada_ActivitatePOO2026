@@ -1,0 +1,1 @@
+-seminarul02 a fost adaugat in saptamana corespondenta acestuia in folderul Sencu_Andrada_ActivitatePOO2026, dar l-am adaugat din nou la o saptamana distanta, pentru a-l face mai usor de gasit 
